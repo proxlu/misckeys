@@ -1,0 +1,2 @@
+#!/bin/bash
+mv /home/edu/Documentos/yad2/.1 /home/edu/Documentos/yad2/.2 ; yad-color ; mv /home/edu/Documentos/yad2/.2 /home/edu/Documentos/yad2/.1

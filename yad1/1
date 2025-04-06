@@ -1,0 +1,2 @@
+#!/bin/bash
+mv /home/edu/Documentos/yad1/.1 /home/edu/Documentos/yad1/.2 ; yad-icon-browser ; mv /home/edu/Documentos/yad1/.2 /home/edu/Documentos/yad1/.1
